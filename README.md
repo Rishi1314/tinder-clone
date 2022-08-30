@@ -1,3 +1,16 @@
+This project was built using the "Clever-programmer" tutorial on the MERN stack. This project is a beginner-friendly way to understand GET and POST methods and connect Back-end to Front-end.This is a Tinder-Clone that uses react-tinder cards.
+
+The Project can be accessed on: https://tinder-clone-847dc.web.app/
+
+Technologies used:
+HTML/CSS/JS
+React/ReactDOM
+Material Ui
+Axios
+MongoDB
+Firebase Tools
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
