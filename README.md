@@ -1,6 +1,7 @@
 This project was built using the "Clever-programmer" tutorial on the MERN stack. This project is a beginner-friendly way to understand GET and POST methods and connect Back-end to Front-end.This is a Tinder-Clone that uses react-tinder cards.
 
 The Project can be accessed on: https://tinder-clone-847dc.web.app/
+![Screenshot](tinderclone.JPG)
 
 Technologies used:
 HTML/CSS/JS
